@@ -15,6 +15,3 @@ Use the nav bar to move between sections and links to application are in work se
 
 
 
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
