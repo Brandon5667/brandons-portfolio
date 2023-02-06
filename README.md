@@ -11,7 +11,7 @@ Use the nav bar to move between sections and links to application are in work se
 
 ## Photo of Page
 
-![Alt text](![Alt text](/posts/path/to/img.jpg "Optional title") "Optional title")
+![Alt text](assets/images/screencap.png "Preview")
 
 
 
